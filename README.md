@@ -1,4 +1,5 @@
-### App List for searching a food
+### %EF%B8%8F Configuration
+Replace the code :
 <pre>
 import './App.css';
 import Select from 'react-select'
