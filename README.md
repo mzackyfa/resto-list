@@ -1,4 +1,4 @@
-### ✨ Configuration
+### Configuration
 Replace the code :
 ```js
 import './App.css';
