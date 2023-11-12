@@ -1,4 +1,4 @@
-### %EF%B8%8F Configuration
+### ✨ Configuration
 Replace the code :
 <pre>
 import './App.css';
